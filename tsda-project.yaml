@@ -1,0 +1,23 @@
+name: tsda-project
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - matplotlib
+  - scikit-learn
+  - jupyter
+  - seaborn
+  - category_encoders
+  - scipy
+  - plotly
+  - pip
+  - pip:
+    - streamlit
+    - altair
+
+
+
+    

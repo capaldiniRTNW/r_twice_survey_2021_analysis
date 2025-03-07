@@ -1,0 +1,8 @@
+Things to Try:
+- Mean Shift Clustering
+- Gradient Boosted Decision Tree Overnight
+- Looking for Multicolinearity of features (the 30-35 subset currently being used)
+- Looking at individual metrics for the model (Corr, WoE, IV)
+- Using Kernel PCA instead of PCA for additional dimensions
+- Removing Tomek Links from the training data
+- Try linear discriminant analysis to separate features
